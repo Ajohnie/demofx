@@ -25,7 +25,7 @@ Building Executable App
 - Run link.bat(look at this file for more details) with OPTION 2 to create a custom runtime image
 - Run image.bat(look at this file for more details) to create an executable file for your app
 - 
-- All the steps above can be customized to create executable files for other
+- All the steps above can be customized to create executable files for other operating systems
 - I used batch files to do some tasks that can be done using maven or your favourite build tool since I was rusty on maven
 - Feel free to use what works for you
 - I left some useful comments allover the files for some errors I got while doing this and how I dealt with them
