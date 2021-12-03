@@ -13,14 +13,14 @@ SET MODULE_PATH="%JAVA_HOME%/jmods"
 SET APP_MODULES=java.base,javafx.controls,javafx.graphics,java.datatransfer,java.desktop,java.scripting,java.xml
 rem -Xmx2048m
 SET JAVA_OPTIONS=""
-SET APP_DESCRIPTION="nfc card reader controller"
+SET APP_DESCRIPTION="demo javafx app"
 SET APP_COPYRIGHT="© 2021 ripple solutions"
 SET APP_VERSION="1.0"
 SET APP_TYPE="exe"
-SET ABOUT_URL="https://github.com/Ajohnie/nfc-card-reader"
+SET ABOUT_URL="https://github.com/Ajohnie/demofx"
 rem get UUID form https://www.uuidgenerator.net/
 SET APP_UUID="fbff31d4-0729-4bdf-aa68-576bb3bf966b"
-SET APP_UPDATE_URL="https://github.com/Ajohnie/nfc-card-reader"
+SET APP_UPDATE_URL="https://github.com/Ajohnie/demofx"
 SET APP_INSTALL_DIR=%APP_NAME%
 SET APP_LICENSE_FILE="C:\LocalServer\license.rtf"
 SET APP_RESOURCE_DIR="src/main/resources"
