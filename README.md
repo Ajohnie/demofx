@@ -13,9 +13,9 @@ Installing
 - [Download The Latest Version of Maven](https://maven.apache.org/download.cgi)
   - set MAVEN_HOME=C:\Program Files\maven or wherever you installed your maven binaries
   - Add %MAVEN_PATH% to the global %PATH% variable so that it is accessible globally from the command line
+  - Restart Your Computer so that the above changes take effect
   - git clone http://github.com/Ajohnie/demofx
   - type cd demofx
-  - Restart Your Computer so that the above changes take effect
   - run mvn install
   
 Building Executable App
