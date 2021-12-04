@@ -24,6 +24,7 @@ Building An Executable App
 - Rub pack.bat to create jar file for your app
 - Run link.bat(look at this file for more details) with OPTION 1 to know module dependencies
 - Run link.bat(look at this file for more details) with OPTION 2 to create a custom runtime image
+- execute run-jar.bat and make sure the app runs before packaging it
 - Run image.bat(look at this file for more details) to create an executable file for your app
 - 
 - All the steps above can be customized to create executable files for other operating systems
