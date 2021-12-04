@@ -18,7 +18,7 @@ Installing
   - type cd demofx
   - run mvn install
   
-Building Executable App
+Building An Executable App
 ----------
 - Rub pack.bat to create jar file for your app
 - Run link.bat(look at this file for more details) with OPTION 1 to know module dependencies
