@@ -34,6 +34,7 @@ Building Executable App
 Useful Links
 ----------
 - The initial skeleton app was built with maven archetypes obtained from here [FXML based JavaFX Maven Archetype](https://github.com/openjfx/javafx-maven-archetypes/tree/master/javafx-archetype-fxml)
+- [A real world use case of this template](https://github.com/Ajohnie/nfc-card-reader)
 
 
 TODO
