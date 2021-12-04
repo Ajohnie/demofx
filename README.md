@@ -20,6 +20,7 @@ Installing
   
 Building An Executable App
 ----------
+- Replace the paths in the batch files with paths from your own file system i.e where the project is located
 - Rub pack.bat to create jar file for your app
 - Run link.bat(look at this file for more details) with OPTION 1 to know module dependencies
 - Run link.bat(look at this file for more details) with OPTION 2 to create a custom runtime image
