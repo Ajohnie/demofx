@@ -1,6 +1,5 @@
 ## JAVAFX APPLICATION TEMPLATE
-- This is an example javafx modular application, that I came up with after facing challenges finding working documentation for creating an installable javafx application.
-- I had prior experience with javafx however most information I knew was outdated since it's been a while since I coded desktop apps 
+- This is an example of a javafx modular application 
 
 Installing
 ----------
