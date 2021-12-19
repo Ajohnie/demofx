@@ -1,5 +1,7 @@
 ## JAVAFX APPLICATION TEMPLATE
-- This is an example of a javafx modular application 
+- This is an example of a javafx modular application
+
+![mage](https://github.com/Ajohnie/demofx/blob/master/git-hub-description.PNG)
 
 Installing
 ----------
